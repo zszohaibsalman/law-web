@@ -1,11 +1,11 @@
 :root {
-  --bg: #030712;
-  --bg-soft: #0b1020;
+  --bg: #7C9299;
+  --bg-soft: #6f858c;
   --accent: #0ea5e9;
   --accent-soft: rgba(14, 165, 233, 0.1);
   --accent-alt: #38bdf8;
   --text: #ffffff;
-  --muted: #9ca3af;
+  --muted: #e5e7eb;
   --danger: #f97316;
   --radius: 10px;
   --transition: 0.22s ease;
@@ -200,10 +200,7 @@ body {
 
 .hero {
   padding: 40px 0 40px;
-  background:
-    radial-gradient(circle at top, rgba(56, 189, 248, 0.12), transparent 60%),
-    radial-gradient(circle at right, rgba(59, 130, 246, 0.08), transparent 65%),
-    #020817;
+  background: #7C9299;
 }
 
 .hero-inner {
@@ -464,7 +461,7 @@ body {
 
 .footer {
   padding: 18px 0 22px;
-  background-color: #020817;
+  background-color: #7C9299;
   border-top: 1px solid rgba(148, 163, 253, 0.12);
 }
 
